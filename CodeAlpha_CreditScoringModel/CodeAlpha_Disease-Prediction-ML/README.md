@@ -1,18 +1,19 @@
-Disease Prediction using Machine Learning
+# Disease Prediction using Machine Learning
 
-Project Overview
+
+# Project Overview
 
 This project predicts the likelihood of heart disease using machine learning techniques. The model is trained on a heart disease dataset containing various medical attributes of patients.
 
-Objective
+# Objective
 
 To build a machine learning model that can accurately predict whether a patient is at risk of heart disease based on medical data.
 
-Dataset
+# Dataset
 
 Heart Disease Dataset
 
-Features include:
+# Features include:
 
 - Age
 - Sex
@@ -28,12 +29,12 @@ Features include:
 - CA
 - Thal
 
-Target:
+# Target:
 
 - 0 = No Heart Disease
 - 1 = Heart Disease
 
-Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
@@ -41,18 +42,18 @@ Technologies Used
 - Scikit-Learn
 - Google Colab
 
-Machine Learning Algorithm
+# Machine Learning Algorithm
 
 Random Forest Classifier
 
-Model Performance
+# Model Performance
 
 - Accuracy: 98.5%
 - Precision: 99%
 - Recall: 99%
 - F1-Score: 99%
 
-Project Workflow
+# Project Workflow
 
 1. Data Collection
 2. Data Preprocessing
@@ -62,11 +63,4 @@ Project Workflow
 6. Prediction
 7. Performance Evaluation
 
-Conclusion
 
-The Random Forest Classifier achieved excellent performance in predicting heart disease, making it a reliable model for this dataset.
-
-Author
-
-Alagukannan Athiyan
-CodeAlpha Machine Learning Internship
